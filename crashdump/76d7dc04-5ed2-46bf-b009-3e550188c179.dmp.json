@@ -1,0 +1,10 @@
+{
+    "EngineID": "1",
+    "HardwareID": "30c860c2ce3a4fb8bb866aa479ff243633a3c20d",
+    "LogMessages": "[{\"Message\":\"Component creation error for  \\\"qrc:/qml/clientwindow.qml\\\" \\n (qrc:/qml/clientwindow.qml:1:1: module \\\"QtQuick\\\" plugin \\\"qtquick2plugin\\\" not found\\n    import QtQuick 2.5\\r\\n    ^)\",\"Timestamp\":1706934432}]",
+    "LoginHost": "189.5.38.76",
+    "OperatingSystem": "Windows 11 Version 2009",
+    "ProductName": "Tibia Client",
+    "Timestamp": "1706934432",
+    "Version": "13.32.14520"
+}
